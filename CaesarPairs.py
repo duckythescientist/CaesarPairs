@@ -25,7 +25,7 @@ def getpairs():
                     print word, caesar, shift
                     pairs += tuple([word, caesar, shift])
 
-    return len(pairs)
+    return len(pairs)/3
 
 if __name__ == "__main__":
     print getpairs(), "pairs found"

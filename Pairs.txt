@@ -803,5 +803,5 @@ ahem holt 7
 lean pier 4
 jung what 13
 tab elm 11
-2415 pairs found
+805 pairs found
 note, each pair has a reverse shift as well
